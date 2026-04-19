@@ -11,6 +11,10 @@ My family has an unfinished basement that my Dad's interested in developing. As 
 
 My current attempts are found under "Exercise 2".
 
+## April 18th, 2026
+
+I retroactively added my in-class code for ECE 342: "Probability for Electrical and Computer Engineers". My motive to coding this program was to study how any self, iterative convolution operation with any function tends towards the Gaussian Distribution. This first piqued my interest all the way back when this property was shown with the unit step function with a handful of drawings in-class, and upon asking my professor, the reason why this appears is because of the Central Limit Theorem and the Law of Large Numbers. I created a program that depicts the self-convolution and saves the results in a .gif file. I may even may make it into a proper widget to add any arbitrary function. For now, the code is in 
+```Python/Central_Limit_Theorem```.
 ## 
 Thank you for checking out my porfolio!
 
