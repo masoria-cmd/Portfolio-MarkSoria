@@ -110,3 +110,25 @@ We digress to **OBJECT SNAPPING**
 ---
 
 April 24th, 2026
+
+Modifying Geometry
+- "M" - Move, may select multiple objects in order to move
+- "CO" - Copy
+	- Moving by a fixed amount:
+		- Describe which direction first
+		- Type by (How much)
+- "RO" - Rotate
+- "Sc" - Scale, enlarge or shrink the object
+	- Type in (Blank) times larger
+- "MI" - Mirror
+	- Select the geometry, then create a line to mirror about
+- "TR" - Trim
+	- Deletes geometry within i
+- "EX" - Extends a line to the next geometry
+- "F" - Fillet (Creates an ARC between two lines)
+- "Z" - Zoom in with CTRL A, "Z", "E" (for everything)
+	- For objects, end with the selection, "Z", "O"
+- "ARRAY" - Foreshadowing, the course will do this later
+- "HATCH" - Foreshadowing, the course will do this later
+
+Let's draw a plan.
